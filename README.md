@@ -4,4 +4,4 @@ test
 
 ☆★
 
-[config](read.md##h2)
+[config](read#h2)
