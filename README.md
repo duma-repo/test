@@ -4,4 +4,4 @@ test
 
 ☆★
 
-[config](## test)
+[config](read##h1)
