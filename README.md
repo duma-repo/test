@@ -4,4 +4,4 @@ test
 
 ☆★
 
-[config](_config.yml)
+[config](## test)
